@@ -1,0 +1,51 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{137, 36}, {193, 94}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "AmericanTypewriter-Bold",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "F557DD8E-7E1E-4488-A786-36A2E531F34F",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "hello_world_lable",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{157, 157}, {150, 89}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "hello_world_touch_up_inside",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "Click Me!",
+          "uuid" : "5E503234-D882-4031-A283-159F6608B631",
+          "class" : "Button",
+          "name" : "hello_world_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
